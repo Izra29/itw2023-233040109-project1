@@ -1,7 +1,7 @@
 body {
-  min-height: 2000px;
+  background-color: brown;
 }
-.jumbotron {
-  padding-top: 3rem;
-  background-color: aquamarine;
+
+.container {
+  max-width: 500px;
 }
